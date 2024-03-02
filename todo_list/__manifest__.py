@@ -4,7 +4,7 @@
     'version': '17.0.1.0.0',
     'category': 'productivity',
     'summary': 'Manage your daily tasks',
-    'description': """ This module allows users to manage their daily tasks in Odoo.  """,
+    'description': """  """,
     'author': 'Mahmoud Amr',
 
     'depends': ['base', 'web'],
